@@ -49,3 +49,25 @@ main img {
    border-radius: 3px;
    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
 }
+
+h2 {
+   font-family: 'Cormorant Garamond', serif;
+   color: #f1d77a;
+   font-size: 34px;
+   font-weight: 600;
+   margin-top: 45px;
+   margin-bottom: 15px;
+}
+
+main p {
+   font-size: 15px;
+   font-weight: 300;
+   line-height: 2;
+   text-align: justify;
+   color: #e4dfd3;
+}
+
+main h2 {
+   border-left: 3px solid #d5b95f;
+   padding-left: 15px;
+}
